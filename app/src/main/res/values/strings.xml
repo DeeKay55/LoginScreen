@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Login">Giriş Yap</string>
+    <string name="SignUp">Yeni hesap Oluştur</string>
+    <string name="lblAppName">Chat App</string>
+    <string name="userName">Kullanıcı Adı</string>
+    <string name="mail">Mail</string>
+    <string name="password">Password</string>
+    <string name="loginPage">Hesabınızla Giriş Yapın</string>
+    <string name="password_again">Password Again</string>
+    <string name="logOut">Çıkış Yap</string>
+</resources>
